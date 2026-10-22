@@ -94,3 +94,15 @@ fastify.listen({
 	port: port,
 	host: "0.0.0.0",
 });
+const autoUrl = new URLSearchParams (location.search). get
+if (autoUrl) (async () = {
+await registerSW();
+const wispUrl = (location protocol === "https:" ? "wss
+if ((await connection. getTransport()) !== "/libcurl/in await connection. setTransport ("/libcurl/index.mjs",
+}
+const frame = scramjet. createFrame ();
+frame. frame. id = "sj-frame";
+document.body.appendChild(frame.frame);
+frame.go (autoUrl);
+}) () ;
+
